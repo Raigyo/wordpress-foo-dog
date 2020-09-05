@@ -31,3 +31,4 @@ And the exercise instructions: [FooDog](https://github.com/becodeorg/LIE-Jepsen-
 - [Wordpress Codex](https://codex.wordpress.org/)
 - [All-in-One WP Migration Import Stuck Solved](https://webhostingadvices.com/all-in-one-wp-migration-import-stuck/)
 - [Gérer les catégories et étiquettes de votre blog WordPress](https://wpixel.fr/gerer-categories-etiquettes-blog-wordpress/)
+- [Grafikart: Tutoriel WordPress : Wordpress "c'est nul"](https://www.youtube.com/watch?v=aV004NiWbbc&fbclid=IwAR0_rfOG2jZkBfTuZMDyJlyyaKZFk5fRMhNxpsAqEFLg2LKt75bKl4OBrJc)
