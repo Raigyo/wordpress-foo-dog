@@ -10,7 +10,7 @@
 
 ![logo wordpress](readme-img/logo-wordpress-01.jpg)
 
-See the final result on my [website](http://raigyo-dev.be/foo-dog/).
+See the final result on my [website](https://raigyo-dev.be/foo-dog/).
 
 Repo Becode with [Wordpress presentation](https://github.com/becodeorg/LIE-Jepsen-1.9/tree/master/03-the-mountain/Wordpress).
 
@@ -29,4 +29,6 @@ And the exercise instructions: [FooDog](https://github.com/becodeorg/LIE-Jepsen-
 ## Useful links
 
 - [Wordpress Codex](https://codex.wordpress.org/)
+- [All-in-One WP Migration Import Stuck Solved](https://webhostingadvices.com/all-in-one-wp-migration-import-stuck/)
+- 
 - [Gérer les catégories et étiquettes de votre blog WordPress](https://wpixel.fr/gerer-categories-etiquettes-blog-wordpress/)
