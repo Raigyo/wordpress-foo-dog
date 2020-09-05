@@ -8,7 +8,7 @@
 
 * * *
 
-![logo wordpress](readme-img/logo-wordpress.jpg)
+![logo wordpress](readme-img/logo-wordpress-01.jpg)
 
 See the final result on my [website](http://raigyo-dev.be/foo-dog/).
 
